@@ -12,9 +12,9 @@ Every file is self-contained, beginner-friendly, and written to learn, not to im
 
 
 
-🧠 Language: Python
+🧠 **Language:** Python
 
-💾 Goal: Learn and build simple projects
+💾 **Goal:** Learn and build simple projects
 
 ## ⚙️ How to Use
 
@@ -24,5 +24,6 @@ Every file is self-contained, beginner-friendly, and written to learn, not to im
 
 ```bash
 python filename.py
+```
 
 Peace out✌️
