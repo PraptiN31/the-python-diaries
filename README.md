@@ -8,7 +8,8 @@ Every file is self-contained, beginner-friendly, and written to learn, not to im
 
 | Project Name     | Description                                               |
 |------------------|-----------------------------------------------------------|
-| `calculator.py`  | A simple little calculator with basic operations          |
+| `calculator.py`  | A simple little calculator with basic operations          | 
+| `affirmations.py`  | An affirmation-generator for simple emotions            |
 
 
 
